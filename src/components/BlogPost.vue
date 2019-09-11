@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <h3>{{ title}} id = {{ size }}</h3>
   </div>
 </template>
